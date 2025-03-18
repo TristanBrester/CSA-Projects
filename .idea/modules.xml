@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CSA-Projects.iml" filepath="$PROJECT_DIR$/.idea/CSA-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zoo Lights Ticket Generator/Zoo Lights Ticket Generator.iml" filepath="$PROJECT_DIR$/Zoo Lights Ticket Generator/Zoo Lights Ticket Generator.iml" />
     </modules>
   </component>
 </project>
