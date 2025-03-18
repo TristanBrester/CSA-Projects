@@ -72,5 +72,12 @@ To earn an A, you must use a switch statement rather than an if-else if-else cha
 
 Continue to prompt the user to select a camera unless they enter -1.
 
-## Task 5 - In Progress
+## Task 5 - Classes and ArrayLists
+
+* Create a Habitat class that allows you to store and/or modify all necessary information about the habitat.
+* Make an ArrayList that stores the Habitat objects.
+* Rather than hard coded options, use the ArrayList to display all of the cameras.
+* Add an option to the menu that allows someone to add a habitat. Do not allow them to add a habitat with the same name
+    * You can leave out a prompt for the image OR you can prompt them for a file name
+    
 
